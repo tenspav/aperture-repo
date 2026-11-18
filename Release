@@ -1,0 +1,16 @@
+Origin: Aperture
+Label: Aperture
+Suite: stable
+Version: 1.0
+Codename: aperture
+Architectures: iphoneos-arm64
+Components: main
+Description: Aperture for iPhone
+MD5Sum:
+ b3aa0c2b702ff6b219ca130dd2e64e07 525 Packages
+ 329185810ab3717251405fce22935d89 385 Packages.gz
+ 8374b16881563be30582edeba0630072 412 Packages.bz2
+SHA256:
+ 32b909446e39ea1f1950f8957d21a89aab8bea109435737bc94ff96b104c88dd 525 Packages
+ fa2a0735f21650064c19dba57904d0f4c89a5613a1721a7871b61ba7b62ec079 385 Packages.gz
+ 9aac8af0937b16c98b18312b242c92f0eaf763e0f7326f5899bce743f52dd3ed 412 Packages.bz2

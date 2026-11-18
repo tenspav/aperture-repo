@@ -1,0 +1,16 @@
+Package: app.aperture.ios
+Version: 1.1.11
+Architecture: iphoneos-arm64
+Maintainer: Aperture
+Installed-Size: 34344
+Depends: firmware (>= 15.0)
+Filename: debs/app.aperture.ios_1.1.11_iphoneos-arm64.deb
+Size: 9947124
+MD5sum: caeeb4ebedd7b18219eb2280be0e1b71
+SHA1: 405f535dc7ddf53ac90af161daa43fb92791a671
+SHA256: 62e6c9d8364e82526f4b5c165f8e125afb336c45dc9dd8d246fb37b1730c5848
+Section: Multimedia
+Description: Plays your Real-Debrid library, synced from Aperture on your Mac, and casts to TVs.
+Author: Aperture
+Name: Aperture
+
